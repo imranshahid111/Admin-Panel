@@ -1,1 +1,2 @@
-This is a Ecommerce app building in Mern Stack
+This is a Admin Panel app building in Mern Stack
+To Run this use npm run dev
